@@ -11,4 +11,9 @@
     9. Find out the Delivery date for Each order
 
 #### checking for 68-95-99.7 rule:
-Examined if the distribution of Order_Value in the E-commerce orders dataset adheres to the 68-95-99.7 rule, which is a characteristic of a normal distribution
+The 68-95-99.7 rule, also known as the empirical rule, is a guideline for how data is distributed in a normal distribution. The rule states that:
+* 68% of the data points will fall within one standard deviation of the mean
+* 95% of the data points will fall within two standard deviations of the mean
+* 99.7% of the data points will fall within three standard deviations of the mean
+* 
+Thus, examined if the distribution of Order_Value in the E-commerce orders dataset adheres to the 68-95-99.7 rule, which is a characteristic of a normal distribution
