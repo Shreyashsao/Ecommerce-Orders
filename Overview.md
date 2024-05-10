@@ -22,5 +22,3 @@ The 'E-commerce Orders Dataset' includes data on various orders placed by custom
 9. **`Delivery_Status`**: The current status of the order's delivery. This text field can include statuses like "Delivered", "In Transit", "Cancelled".
 
 
-* 99.7% of the data points will fall within three standard deviations of the mean
-
